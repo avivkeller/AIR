@@ -1,0 +1,31 @@
+Artificial Intelligence Restriction License (AIR License)
+
+Copyright (c) [YEAR], [AUTHOR or ORGANIZATION]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
+to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+and/or sell copies of the Software, subject to the following conditions:
+
+1. Restriction on Use in AI Development and Training:
+   The Software, in whole or in part, including any modifications or derivative works thereof, may not be used for the development, training, testing, 
+   or improvement of artificial intelligence (AI) systems, machine learning models, or any other similar systems without the express prior written consent 
+   of the copyright holder.
+
+2. Retention of Rights:
+   The above restriction applies regardless of whether the Software is directly incorporated into AI systems or indirectly used to generate datasets or 
+   outputs for such purposes.
+
+3. Non-Limitation of General Use:
+   Except as explicitly restricted above, the Software may otherwise be used, copied, modified, merged, published, distributed, sublicensed, and/or sold 
+   in accordance with the terms of this license.
+
+4. Disclaimer of Warranty:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+   CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE 
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. Termination Clause:
+   Any violation of this license, including the AI use restriction, shall result in the immediate termination of the rights granted herein.
+
+By using the Software, you agree to be bound by the terms of this license.
